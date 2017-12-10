@@ -2,3 +2,4 @@
 __pycache__
 *.py[cdo]
 MNIST_data/
+sample_data/
